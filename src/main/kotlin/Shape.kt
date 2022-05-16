@@ -1,5 +1,5 @@
 abstract class Shape (
-    val name: String
+    protected val name: String
         ) {
 
     init{
