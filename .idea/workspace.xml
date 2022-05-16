@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8a48ee1b-d890-40c7-8043-d74aa799bcad" name="Changes" comment="shape class, circle class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Circle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Circle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Shape.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
