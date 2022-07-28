@@ -20,7 +20,7 @@ class Rectangle (
         }catch (e: NegativeOrZeroRectangleSideException){
             a= Random.nextDouble(1.0,10.0)
             b= Random.nextDouble(1.0,10.0)
-            println("You enetered side which is less or equal to zero, so we changed it to random size")
+            println("You entered side which is less or equal to zero, so we changed it to random size")
         }
     }
 
